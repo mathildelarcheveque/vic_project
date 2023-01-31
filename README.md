@@ -1,4 +1,4 @@
-# Visual Computing Course Project - Yoga Posture Image Classification using Histogram of Oriented Gradients
+# Visual Computing Project - Yoga Posture Image Classification using Histogram of Oriented Gradients
 
 Authors: Carlos Santos Garcìa & Mathilde Larchevêque 
 
